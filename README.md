@@ -1,6 +1,12 @@
 # Spring5Webapp
 Example project
 
+git config --global user.name "<name>"
+
+git config --global user.email "<email>"
+
+git config --list
+
 git init
 
 git add <File>
