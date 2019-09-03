@@ -30,6 +30,10 @@ git remote add origin https://github.com/nanthakumarg/spring5webapp.git
 
 git push -u origin master
 
+### update
+
+git pull origin master
+
 ### Save password for Ubuntu
 
 git config --global credential.helper cache
