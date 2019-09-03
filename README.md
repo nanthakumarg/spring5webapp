@@ -1,11 +1,16 @@
 # Spring5Webapp
+
 Example project
+
+### Initial Configuration
 
 git config --global user.name "[name]"
 
 git config --global user.email "[email]"
 
 git config --list
+
+### Initializing the project
 
 git init
 
@@ -24,3 +29,10 @@ git commit -m "message"
 git remote add origin https://github.com/nanthakumarg/spring5webapp.git
 
 git push -u origin master
+
+### Save password for Ubuntu
+
+git config --global credential.helper cache
+
+git config --global credential.helper 'cache --timeout=864000'
+
