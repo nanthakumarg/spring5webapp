@@ -1,21 +1,21 @@
 # Spring5Webapp
 Example project
 
-git config --global user.name "<name>"
+git config --global user.name "[name]"
 
-git config --global user.email "<email>"
+git config --global user.email "[email]"
 
 git config --list
 
 git init
 
-git add <File>
+git add [File]
 
 git add -A
 
 git status
 
-git reset <File>
+git reset [File]
 
 git reset
 
