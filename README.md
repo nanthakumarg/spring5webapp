@@ -1,6 +1,6 @@
 # Spring5Webapp
 
-Example project
+Example project for spring
 
 ### Initial Configuration
 
